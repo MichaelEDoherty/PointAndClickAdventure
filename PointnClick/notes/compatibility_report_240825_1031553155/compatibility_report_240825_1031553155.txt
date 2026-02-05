@@ -1,0 +1,63 @@
+Font has no texture in GameMaker Studio 1 project, forced to regenerate
+Font texture has been regenerated - inconsistencies may occur
+Converting GML script: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_57.gml
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_57.gml - 10: Got ';' (;) expected ','
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_57.gml - 15: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_57.gml - 20: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_57.gml
+
+Converting GML script: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_52.gml
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_52.gml - 10: Got '$d' (int) expected ','
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_52.gml - 11: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_52.gml - 15: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_52.gml - 20: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_52.gml
+
+Converting GML script: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_51.gml
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_51.gml - 10: Got '#draw' (333) expected ','
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_51.gml - 11: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_51.gml - 15: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_51.gml - 20: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_51.gml
+
+Converting GML script: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_50.gml
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_50.gml - 10: Got '@' (@) expected ','
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_50.gml - 11: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_50.gml - 15: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_50.gml - 20: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_50.gml
+
+Converting GML script: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_49.gml
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_49.gml - 10: Got '!' (!) expected ','
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_49.gml - 11: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_49.gml - 15: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_49.gml - 20: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_49.gml
+
+Converting GML script: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_48.gml
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_48.gml - 10: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_48.gml - 11: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_48.gml - 15: unexpected syntax error
+ERROR: C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_48.gml - 20: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Michael\Documents\Game_Maker7_withOLDprojects\gmaker 7.0\my games\pointnclickadvent\pointnclick.gmx\mvc\objects\obj_savebox\KeyPress_48.gml
+
+Game speed set to 30
+Added compatibility script 'action\action_another_room.gml'
+Added compatibility script 'action\action_create_object.gml'
+Added compatibility script 'action\action_draw_sprite.gml'
+Added compatibility script 'action\action_draw_text.gml'
+Added compatibility script 'action\action_font.gml'
+Added compatibility script 'action\action_if_collision.gml'
+Added compatibility script 'action\action_if_number.gml'
+Added compatibility script 'action\action_if_variable.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'action\action_move_to.gml'
+Added compatibility script 'action\action_set_alarm.gml'
+Added compatibility script 'action\action_set_hspeed.gml'
+Added compatibility script 'action\action_set_relative.gml'
+Added compatibility script 'action\action_set_vspeed.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
